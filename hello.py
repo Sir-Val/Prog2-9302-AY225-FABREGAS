@@ -1,1 +1,0 @@
-print("WALANG LATE NEXT WEEK")
