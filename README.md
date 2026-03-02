@@ -1,7 +1,8 @@
 /*
 PROGRAMMING 2 – MACHINE PROBLEM #
 University of Perpetual Help System DALTA – Molino Campus
-BS Computer Science – Data Science
+BS Information Technology - Game Development
+https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024
 
 UPDATED EXECUTION REQUIREMENT:
 
